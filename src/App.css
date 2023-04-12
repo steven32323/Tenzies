@@ -30,3 +30,43 @@ main {
   grid-template-rows: repeat(2, 1fr);
   gap: 20px;
 }
+button {
+  margin-top: 5vh;
+  width: 150px;
+  height: 35.84px;
+  cursor: pointer;
+  background: #5035ff;
+  font-size: 1.2rem;
+  border: none;
+  box-shadow: 0px 3.2px 7.68px rgba(0, 0, 0, 0.18);
+  border-radius: 3.81277px;
+  color: white;
+}
+button:active {
+  box-shadow: inset 5px 5px 10px -3px rgba(0, 0, 0, 0.7);
+}
+h1 {
+  font-family: "Karla";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25.6px;
+  line-height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  letter-spacing: -0.03em;
+}
+p {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13.1072px;
+  line-height: 16px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: -0.03em;
+  width: 232.96px;
+  height: 31.36px;
+}
