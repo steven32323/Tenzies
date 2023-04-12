@@ -33,7 +33,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](./src/assets/screenshot.png?raw=true)
+[![Product Name Screen Shot][product-screenshot]](https://raw.githubusercontent.com/steven32323/Tenzies/main/src/assets/screenshot.png)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
