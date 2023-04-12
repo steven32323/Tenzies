@@ -1,9 +1,6 @@
 <div id="top"></div>
 <br />
 <div align="center">
-  <a href="https://github.com/steven32323/Tenzies">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
 <h3 align="center">Tenzies</h3>
 
@@ -12,7 +9,7 @@
     <br />
     <br />
     <br />
-    <a href="ssmith-tenzies.netlify.app">View Demo</a>
+    <a href="https://ssmith-tenzies.netlify.app/">View Demo</a>
   </p>
 </div>
 
@@ -36,13 +33,13 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://scrimba.ams3.digitaloceanspaces.com/assets/emails/reactv2/projects/Tenzies.jpg)
+[![Product Name Screen Shot][product-screenshot]](./src/assets/screenshot.png)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
 
-- [![React][react.js]][react-url]
+[![React][react.js]][https://react.dev/]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -70,14 +67,6 @@ Don't forget to give the project a star! Thanks again!
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- LICENSE -->
-
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
