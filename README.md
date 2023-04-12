@@ -33,13 +33,13 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](./src/assets/screenshot.png)
+[![Product Name Screen Shot][product-screenshot]](./src/assets/screenshot.png?raw=true)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
 
-[![React][react.js]][https://react.dev/]
+[![React][react.js]](https://react.dev/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
